@@ -1,0 +1,10 @@
+You will need the following Python3 Libraries to run this script without any errors.
+
+NOTE: Some may come pre-installed with Python 3 on your machine.
+
+List: 
+
+    Pandas 
+    NumPY v1.19.3
+    Requests
+    BeautifulSoup
