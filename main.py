@@ -20,3 +20,5 @@ weather_stuff = pd.DataFrame(
 
 
 weather_stuff.to_csv('weather_stats.csv') #Pushing the dataframe into a CSV file
+
+print("Done! Check weather_stats.csv for the data!") #Letting the user know we finished
